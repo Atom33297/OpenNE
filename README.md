@@ -260,7 +260,7 @@ If you find *OpenNE* is useful for your research, please consider citing the fol
       Year                     = {2017}
     }
     
-    @inproceedings{ou2016asymmetric,
+    @inproceedings{ou2016asymmetric
       title                    = {Asymmetric transitivity preserving graph embedding},
       author                   = {Ou, Mingdong and Cui, Peng and Pei, Jian and Zhang, Ziwei and Zhu, Wenwu},
       booktitle                = {Proceedings of the 22nd ACM SIGKDD},
